@@ -1,0 +1,46 @@
+.group-39-1 {
+  align-items: flex-start;
+  background-color: var(--baby-powder);
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 358px;
+  padding: 27px 60px;
+  position: fixed;
+  top: 790px;
+  z-index: 11;
+}
+
+.group-13-1 {
+  height: 38px;
+  width: 238px;
+}
+
+.group-39-1.group-39-2,
+.group-39-1.group-39-3 {
+  left: -1px;
+  z-index: 12;
+}
+
+.group-39-1.group-39-5 {
+  align-items: flex-end;
+  min-width: unset;
+  padding: unset;
+  width: 358px;
+}
+
+.group-39-1.group-39-5 .group-13-1,
+.group-39-1.group-39-6 .group-13-1 {
+  margin-bottom: 32px;
+  margin-left: 60px;
+}
+
+.group-39-1.group-39-6 {
+  align-items: flex-end;
+  left: -1px;
+  min-width: unset;
+  padding: unset;
+  width: 358px;
+  z-index: 12;
+}
+

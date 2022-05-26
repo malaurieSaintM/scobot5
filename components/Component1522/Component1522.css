@@ -1,0 +1,32 @@
+.component-15 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 2.0px;
+  margin-top: 200px;
+  min-width: 290px;
+  z-index: 1;
+}
+
+.overlap-group {
+  border-radius: 30px;
+  height: 52px;
+  position: relative;
+  width: 290px;
+}
+
+.akar-iconscircle-check-fill {
+  height: 24px;
+  left: 242px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.icbaseline-access-time-filled {
+  height: 26px;
+  left: 241px;
+  position: absolute;
+  top: 13px;
+  width: 26px;
+}
+

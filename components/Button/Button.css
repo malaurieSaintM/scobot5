@@ -1,0 +1,93 @@
+.button-2 {
+  align-items: flex-start;
+  border-radius: 30px;
+  display: flex;
+  height: 52px;
+  left: 0;
+  min-width: 290px;
+  padding: 1.5px 97px;
+  position: absolute;
+  top: 0;
+}
+
+.primary-button-2 {
+  letter-spacing: 0;
+  line-height: 46.8px;
+  min-height: 47px;
+  min-width: 96px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-2.button,
+.button-2.button-13,
+.button-2.button-14,
+.button-2.button-15,
+.button-2.button-1,
+.button-2.button-1-1,
+.button-2.button-1-2,
+.button-2.button-1-3 {
+  padding: 1.5px 93px;
+}
+
+.button-2.button-13 .primary-button-2,
+.button-2.button-1-1 .primary-button-2,
+.button-2.button-14 .primary-button-2,
+.button-2.button-15 .primary-button-2,
+.button-2.button .primary-button-2,
+.button-2.button-1-2 .primary-button-2,
+.button-2.button-1-3 .primary-button-2,
+.button-2.button-1 .primary-button-2 {
+  min-width: 104px;
+}
+
+.button-2.button-3,
+.button-2.button-8 {
+  padding: 1.5px 94px;
+}
+
+.button-2.button-3 .primary-button-2,
+.button-2.button-8 .primary-button-2 {
+  min-width: 102px;
+}
+
+.button-2.button-4,
+.button-2.button-9 {
+  padding: 1.5px 88.5px;
+}
+
+.button-2.button-4 .primary-button-2,
+.button-2.button-9 .primary-button-2 {
+  min-width: 113px;
+}
+
+.button-2.button-5,
+.button-2.button-10 {
+  padding: 1.5px 92.5px;
+}
+
+.button-2.button-5 .primary-button-2,
+.button-2.button-10 .primary-button-2 {
+  min-width: 105px;
+}
+
+.button-2.button-6,
+.button-2.button-11 {
+  padding: 1.5px 89.5px;
+}
+
+.button-2.button-6 .primary-button-2,
+.button-2.button-11 .primary-button-2 {
+  min-width: 111px;
+}
+
+.button-2.button-7,
+.button-2.button-12 {
+  padding: 1.5px 89px;
+}
+
+.button-2.button-7 .primary-button-2,
+.button-2.button-12 .primary-button-2 {
+  min-width: 112px;
+}
+

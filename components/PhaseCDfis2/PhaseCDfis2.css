@@ -1,0 +1,89 @@
+.phase-c-defis {
+  align-items: center;
+  background-color: var(--baby-powder);
+  display: flex;
+  flex-direction: column;
+  height: 1421px;
+  position: relative;
+  width: 358px;
+}
+
+.rectangle-8-2 {
+  background-color: var(--baby-powder);
+  height: 154px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 358px;
+  z-index: 14;
+}
+
+.les-dfis-1 {
+  height: 56px;
+  left: 37px;
+  letter-spacing: 0;
+  position: fixed;
+  text-align: center;
+  top: 83px;
+  width: 254px;
+  z-index: 15;
+}
+
+.retour-2 {
+  cursor: pointer;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  position: fixed;
+  text-align: center;
+  text-decoration: underline;
+  top: 123px;
+  white-space: nowrap;
+  z-index: 16;
+}
+
+.component-15-1 {
+  cursor: pointer;
+  height: 52px;
+  margin-right: 2.0px;
+  margin-top: 200px;
+  width: 290px;
+  z-index: 1;
+}
+
+.component-16-1 {
+  cursor: pointer;
+  height: 52px;
+  margin-right: 2.0px;
+  margin-top: 33px;
+  width: 290px;
+  z-index: 2;
+}
+
+.component-17-1 {
+  cursor: pointer;
+  height: 52px;
+  margin-right: 2.0px;
+  margin-top: 33px;
+  width: 290px;
+  z-index: 3;
+}
+
+.component-18-1 {
+  cursor: pointer;
+  height: 52px;
+  margin-right: 2.0px;
+  margin-top: 33px;
+  width: 290px;
+  z-index: 4;
+}
+
+.group-39-7 {
+  height: 97px;
+  left: 0;
+  position: fixed;
+  top: 1324px;
+  width: 358px;
+  z-index: 17;
+}
+

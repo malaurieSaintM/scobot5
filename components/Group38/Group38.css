@@ -1,0 +1,367 @@
+.group-38,
+.group-38-1 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  margin-left: -233px;
+  margin-top: 32px;
+  min-width: 558px;
+  z-index: 7;
+}
+
+.group-container,
+.group-container-1 {
+  height: 99px;
+  position: relative;
+  width: 574px;
+}
+
+.group-36,
+.group-36-1 {
+  align-items: flex-start;
+  background-color: var(--baby-powder);
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 558px;
+  padding: 0 115.6px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group-10,
+.overlap-group-11 {
+  height: 99px;
+  margin-top: 0;
+  position: relative;
+  width: 325px;
+}
+
+.group-34,
+.group-34-1 {
+  height: 99px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 222px;
+}
+
+.line-1,
+.line-1-1 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 325px;
+}
+
+.group-37,
+.group-37-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 31px;
+  left: 15px;
+  min-width: 559px;
+  position: absolute;
+  top: 16px;
+}
+
+.number-2,
+.number-17 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.number-3,
+.number-18 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 23px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.number,
+.number-1 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 19px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.number-4,
+.x,
+.number-19,
+.x-10 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 16px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.number-5,
+.number-20 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 10px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.number-container,
+.number-container-1 {
+  height: 16px;
+  margin-left: 2px;
+  position: relative;
+  width: 142px;
+}
+
+.number-6,
+.number-21 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.number-7,
+.number-22 {
+  left: 67px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.number-8,
+.number-23 {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.number-9,
+.number-24 {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.number-10,
+.number-25 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 2px;
+  min-height: 15px;
+  text-align: center;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.number-11,
+.x-6,
+.number-26,
+.x-16 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 2px;
+  min-height: 15px;
+  text-align: center;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.number-12,
+.x-9,
+.number-27,
+.x-19 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 5px;
+  min-height: 31px;
+  text-align: center;
+  width: 30px;
+}
+
+.number-13,
+.number-28 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 5px;
+  min-height: 31px;
+  text-align: center;
+  width: 29px;
+}
+
+.total,
+.total-1 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 16px;
+  min-height: 20px;
+  text-align: center;
+  width: 76px;
+}
+
+.group-40,
+.group-40-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 31px;
+  left: 5px;
+  min-width: 567px;
+  position: absolute;
+  top: 65px;
+}
+
+.number-14,
+.number-29 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.number-15,
+.number-30 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 23px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.x-1,
+.x-11 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 11px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.overlap-group2,
+.overlap-group2-1 {
+  height: 16px;
+  margin-left: 2px;
+  position: relative;
+  width: 144px;
+}
+
+.x-2,
+.x-12 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.x-3,
+.x-13 {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.x-4,
+.x-14 {
+  left: 104px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.x-5,
+.x-15 {
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.x-7,
+.x-17 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 2px;
+  min-height: 15px;
+  text-align: center;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.x-8,
+.x-18 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 5px;
+  min-height: 31px;
+  text-align: center;
+  width: 31px;
+}
+
+.number-16,
+.number-31 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 14px;
+  min-height: 20px;
+  text-align: center;
+  width: 78px;
+}
+

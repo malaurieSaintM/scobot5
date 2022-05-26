@@ -1,0 +1,86 @@
+.phase-c-d1 {
+  align-items: center;
+  background-color: var(--baby-powder);
+  display: flex;
+  flex-direction: column;
+  height: 887px;
+  overflow: hidden;
+  position: relative;
+  width: 358px;
+}
+
+.rectangle-240-5 {
+  background-color: var(--baby-powder);
+  height: 93px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 358px;
+  z-index: 8;
+}
+
+.phase-c-5 {
+  height: 56px;
+  left: 52px;
+  letter-spacing: 0;
+  position: fixed;
+  text-align: center;
+  top: 20px;
+  width: 254px;
+  z-index: 11;
+}
+
+.retour-7 {
+  cursor: pointer;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  position: fixed;
+  text-align: center;
+  text-decoration: underline;
+  top: 66px;
+  white-space: nowrap;
+  z-index: 9;
+}
+
+.suivant-5 {
+  left: 264px;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  position: fixed;
+  text-align: center;
+  text-decoration: underline;
+  top: 66px;
+  white-space: nowrap;
+  z-index: 10;
+}
+
+.dfi-n4-la-mlodie-ensorceleuse-5 {
+  height: 66px;
+  letter-spacing: 0;
+  margin-right: 1.0px;
+  margin-top: 117px;
+  text-align: center;
+  text-decoration: underline;
+  width: 345px;
+  z-index: 2;
+}
+
+.chaque-tape-valide-vaut-5-points-5 {
+  height: 52px;
+  letter-spacing: 0;
+  margin-right: 3.0px;
+  margin-top: 25px;
+  text-align: center;
+  width: 295px;
+  z-index: 1;
+}
+
+.group-30-3 {
+  height: 78px;
+  margin-right: 2.0px;
+  margin-top: 33px;
+  width: 298px;
+  z-index: 3;
+}
+

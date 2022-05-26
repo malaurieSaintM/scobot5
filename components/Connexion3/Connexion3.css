@@ -1,0 +1,150 @@
+.connexion-1-1 {
+  align-items: center;
+  background-color: var(--baby-powder);
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  padding: 17px 44px;
+  width: 358px;
+}
+
+.se-connecter-2 {
+  height: 56px;
+  left: 60px;
+  letter-spacing: 0;
+  position: fixed;
+  text-align: center;
+  top: 106px;
+  width: 254px;
+  z-index: 7;
+}
+
+.identifiant-2 {
+  height: 27px;
+  letter-spacing: 0;
+  margin-right: 5.0px;
+  margin-top: 226px;
+  min-width: 93px;
+  text-align: center;
+  z-index: 5;
+}
+
+.group-25-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 28.0px;
+  margin-top: 12px;
+  min-width: 204px;
+  z-index: 3;
+}
+
+.overlap-group-18 {
+  align-items: flex-start;
+  border-radius: 30px;
+  display: flex;
+  height: 43px;
+  min-width: 202px;
+  padding: 8px 14px;
+}
+
+.ex-brainus {
+  background-color: transparent;
+  border: 0;
+  height: 25px;
+  letter-spacing: 0;
+  padding: 0;
+  text-align: center;
+  width: 173px;
+}
+
+.ex-brainus::placeholder,
+.x-61::placeholder {
+  color: #06060656;
+}
+
+.mot-de-passe-2 {
+  height: 27px;
+  letter-spacing: 0;
+  margin-top: 10px;
+  min-width: 122px;
+  text-align: center;
+  z-index: 6;
+}
+
+.group-26-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 30.0px;
+  margin-top: 12px;
+  min-height: 100px;
+  width: 206px;
+  z-index: 4;
+}
+
+.overlap-group2-8 {
+  align-items: flex-end;
+  border-radius: 30px;
+  display: flex;
+  height: 43px;
+  min-width: 202px;
+  padding: 8px 28px;
+}
+
+.x-61 {
+  background-color: transparent;
+  border: 0;
+  height: 25px;
+  letter-spacing: 0;
+  padding: 0;
+  text-align: center;
+  width: 134px;
+}
+
+.overlap-group1-4 {
+  border-radius: 30px;
+  height: 43px;
+  margin-top: 14px;
+  position: relative;
+  width: 202px;
+}
+
+.rectangle-6-1 {
+  background-color: var(--cerulean-frost);
+  border-radius: 30px;
+  cursor: pointer;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 202px;
+}
+
+.connexion-3 {
+  height: 23px;
+  left: 20px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 163px;
+}
+
+.mot-de-passe-oubli-2 {
+  height: 14px;
+  letter-spacing: 0;
+  margin-left: 12.0px;
+  margin-top: 13px;
+  text-align: center;
+  text-decoration: underline;
+  width: 150px;
+  z-index: 2;
+}
+
+.group-13-8 {
+  height: 38px;
+  margin-top: 244px;
+  width: 238px;
+  z-index: 1;
+}
+

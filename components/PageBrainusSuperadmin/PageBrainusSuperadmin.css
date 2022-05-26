@@ -1,0 +1,39 @@
+.page-brainus-superadmin {
+  align-items: flex-start;
+  background-color: var(--baby-powder);
+  display: flex;
+  height: 800px;
+  padding: 17px 44px;
+  width: 358px;
+}
+
+.accs-brainus {
+  height: 56px;
+  left: 44px;
+  letter-spacing: 0;
+  position: fixed;
+  text-align: center;
+  top: 42px;
+  width: 254px;
+  z-index: 2;
+}
+
+.gestion-du-tournoi {
+  height: 56px;
+  left: 44px;
+  letter-spacing: 0;
+  position: fixed;
+  text-align: center;
+  top: 98px;
+  width: 254px;
+  z-index: 3;
+}
+
+.group-13-10 {
+  height: 38px;
+  margin-left: 16px;
+  margin-top: 728px;
+  width: 238px;
+  z-index: 1;
+}
+

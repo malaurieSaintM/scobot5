@@ -1,0 +1,39 @@
+.group-31 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 41px;
+  min-width: 302px;
+  z-index: 4;
+}
+
+.x2-le-minotaure-se-trouve-sur-le-robot {
+  height: 46px;
+  letter-spacing: 0;
+  width: 234px;
+}
+
+.component-12 {
+  height: 43px;
+  margin-bottom: -1px;
+  margin-left: 9px;
+  width: 57px;
+}
+
+.group-31.group-31-1 {
+  margin-top: 42px;
+}
+
+.group-31.group-31-3,
+.group-31.group-31-4 {
+  align-items: unset;
+  min-width: unset;
+  width: 302px;
+}
+
+.group-31.group-31-3 .component-12,
+.group-31.group-31-4 .component-12 {
+  margin-bottom: unset;
+  margin-top: 4px;
+}
+

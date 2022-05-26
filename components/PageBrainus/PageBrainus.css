@@ -1,0 +1,25 @@
+.page-brainus {
+  align-items: flex-start;
+  background-color: var(--baby-powder);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  padding: 17px 60px;
+  width: 360px;
+}
+
+.group-19-1 {
+  align-self: center;
+  height: 155px;
+  margin-left: 1.0px;
+  margin-top: 263px;
+  width: 185px;
+}
+
+.group-13-9 {
+  height: 38px;
+  margin-top: 310px;
+  width: 238px;
+}
+

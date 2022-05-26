@@ -1,0 +1,52 @@
+.phase-1 {
+  align-items: flex-start;
+  background-color: var(--fiord);
+  border-radius: 30px;
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  margin-right: 2.0px;
+  margin-top: 201px;
+  min-width: 290px;
+  padding: 1px 14px;
+  z-index: 4;
+}
+
+.overlap-group-3 {
+  height: 46px;
+  position: relative;
+  width: 241px;
+}
+
+.phase-a-1 {
+  height: 46px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 221px;
+}
+
+.akar-iconscircle-check-fill-1 {
+  height: 24px;
+  left: 216px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.icbaseline-access-time-filled-4 {
+  height: 26px;
+  left: 215px;
+  position: absolute;
+  top: 12px;
+  width: 26px;
+}
+
+.phase-1.phase-2,
+.phase-1.phase-4 {
+  margin-top: 38px;
+  z-index: 2;
+}
+

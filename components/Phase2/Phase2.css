@@ -1,0 +1,23 @@
+.phase-5,
+.phase-6 {
+  align-items: flex-start;
+  background-color: var(--fiord);
+  border-radius: 30px;
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  margin-right: 2.0px;
+  margin-top: 38px;
+  min-width: 290px;
+  padding: 1px 34px;
+  z-index: 5;
+}
+
+.phase-d,
+.phase-d-1 {
+  height: 46px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 221px;
+}
+
